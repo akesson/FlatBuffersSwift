@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0BA0E8441C32B62200B896B7"
-               BuildableName = "FlatBuffersSwift.framework"
-               BlueprintName = "FlatBuffersSwift"
+               BuildableName = "FlatBuffersSwift macOS.framework"
+               BlueprintName = "FlatBuffersSwift macOS"
                ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,8 +34,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0BA0E84E1C32B62200B896B7"
-               BuildableName = "FlatBuffersSwiftTests.xctest"
-               BlueprintName = "FlatBuffersSwiftTests"
+               BuildableName = "FlatBuffersSwiftTests macOS.xctest"
+               BlueprintName = "FlatBuffersSwiftTests macOS"
                ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -44,8 +44,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0BA0E8441C32B62200B896B7"
-            BuildableName = "FlatBuffersSwift.framework"
-            BlueprintName = "FlatBuffersSwift"
+            BuildableName = "FlatBuffersSwift macOS.framework"
+            BlueprintName = "FlatBuffersSwift macOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0BA0E8441C32B62200B896B7"
-            BuildableName = "FlatBuffersSwift.framework"
-            BlueprintName = "FlatBuffersSwift"
+            BuildableName = "FlatBuffersSwift macOS.framework"
+            BlueprintName = "FlatBuffersSwift macOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,8 +84,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0BA0E8441C32B62200B896B7"
-            BuildableName = "FlatBuffersSwift.framework"
-            BlueprintName = "FlatBuffersSwift"
+            BuildableName = "FlatBuffersSwift macOS.framework"
+            BlueprintName = "FlatBuffersSwift macOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

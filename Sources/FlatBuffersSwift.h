@@ -2,11 +2,11 @@
 //  FlatBuffersSwift.h
 //  FlatBuffersSwift
 //
-//  Created by Henrik Akesson on 27/12/2018.
-//  Copyright © 2018 maxim.zaks. All rights reserved.
+//  Created by Maxim Zaks on 29.12.15.
+//  Copyright © 2015 maxim.zaks. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for FlatBuffersSwift.
 FOUNDATION_EXPORT double FlatBuffersSwiftVersionNumber;
