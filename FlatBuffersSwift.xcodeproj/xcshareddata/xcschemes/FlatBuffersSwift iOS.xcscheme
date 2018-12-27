@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C3C31EF821D5345F005A3C6C"
-               BuildableName = "FlatBuffersSwift_iOS.framework"
+               BuildableName = "FlatBuffersSwift.framework"
                BlueprintName = "FlatBuffersSwift iOS"
                ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C31EF821D5345F005A3C6C"
-            BuildableName = "FlatBuffersSwift_iOS.framework"
+            BuildableName = "FlatBuffersSwift.framework"
             BlueprintName = "FlatBuffersSwift iOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C31EF821D5345F005A3C6C"
-            BuildableName = "FlatBuffersSwift_iOS.framework"
+            BuildableName = "FlatBuffersSwift.framework"
             BlueprintName = "FlatBuffersSwift iOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
@@ -83,7 +83,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C31EF821D5345F005A3C6C"
-            BuildableName = "FlatBuffersSwift_iOS.framework"
+            BuildableName = "FlatBuffersSwift.framework"
             BlueprintName = "FlatBuffersSwift iOS"
             ReferencedContainer = "container:FlatBuffersSwift.xcodeproj">
          </BuildableReference>
