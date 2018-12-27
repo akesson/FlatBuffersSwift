@@ -59,7 +59,7 @@
 		0BA0E8561C32B62200B896B7 /* Info-macOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-macOS.plist"; sourceTree = "<group>"; };
 		0BA0E86A1C32B6AD00B896B7 /* FlatBuffersReader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlatBuffersReader.swift; sourceTree = "<group>"; };
 		85EE88611CDE83E00030231F /* generate.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = generate.sh; sourceTree = SOURCE_ROOT; };
-		85EE88621CDE84640030231F /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; name = .travis.yml; path = ../.travis.yml; sourceTree = "<group>"; };
+		85EE88621CDE84640030231F /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = SOURCE_ROOT; };
 		85EE887C1CE5128E0030231F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		85EE887E1CE512980030231F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		C3C31EF921D5345F005A3C6C /* FlatBuffersSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FlatBuffersSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,7 +107,7 @@
 			children = (
 				0BA0E8471C32B62200B896B7 /* Sources */,
 				0BA0E8531C32B62200B896B7 /* Tests */,
-				85EE885C1CDE830A0030231F /* Resources */,
+				C3C31F1521D539AD005A3C6C /* Resources */,
 				0BA0E8461C32B62200B896B7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			path = Tests;
 			sourceTree = "<group>";
 		};
-		85EE885C1CDE830A0030231F /* Resources */ = {
+		C3C31F1521D539AD005A3C6C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				85EE887E1CE512980030231F /* LICENSE */,
@@ -161,7 +161,6 @@
 				85EE88621CDE84640030231F /* .travis.yml */,
 			);
 			name = Resources;
-			path = Example;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
